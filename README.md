@@ -14,3 +14,6 @@ Data Collection: Collect images or videos of different hand gestures.
 Preprocessing: Use MediaPipe to detect hand landmarks.
 Model Training: Train the neural network using TensorFlow.
 Real-Time Recognition: Use the trained model to recognize gestures in real-time.
+
+
+Dataset :- https://universe.roboflow.com/roboflow-100/hand-gestures-jps7z
