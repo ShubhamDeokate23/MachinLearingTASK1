@@ -17,3 +17,4 @@ Real-Time Recognition: Use the trained model to recognize gestures in real-time.
 
 
 Dataset :- https://universe.roboflow.com/roboflow-100/hand-gestures-jps7z
+Dataset :- https://www.kaggle.com/datasets/aryarishabh/hand-gesture-recognition-dataset 
